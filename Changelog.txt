@@ -1,0 +1,14 @@
+Sagiri Discord.py Bot
+    Developed by Senpai#0001
+
+Version 1.0(November 14th, 2021)
+    -custom prefixes
+    -moderation
+    -gambling
+    -ping
+    #pls don't ask | it's just a thing between me and my friends
+        -three fun comments
+
+Version 1.1(November 16th, 2021)
+    -music command
+    -some little improvements
